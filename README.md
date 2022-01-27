@@ -10,4 +10,4 @@ Still remember what [odometry](https://navigation.ros.org/setup_guides/odom/setu
 
 ## Helpful Resources
 - [Communication between RPi and Arduino Tutorial](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
-- Arduino code for monitoring motor speed can be found in `.ino`.
+- Arduino code for monitoring motor speed can be found in `sketch_twoMotorSpeed.ino`.
